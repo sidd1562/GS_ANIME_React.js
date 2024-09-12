@@ -1,0 +1,19 @@
+.search_left_right {
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+@media (max-width: 600px) {
+
+    .search_left_right {
+        padding: 7px 0px;
+    }
+
+
+}

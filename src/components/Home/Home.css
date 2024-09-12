@@ -1,0 +1,16 @@
+.home_left_right {
+    padding: 5px 40px;
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+
+}
+
+
+
+@media (max-width: 600px) {
+
+    .home_left_right {
+       padding: 7px 0px;
+    }
+}
